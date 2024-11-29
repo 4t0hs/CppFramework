@@ -1,0 +1,10 @@
+.vscode/
+Build/
+build/
+CMakeFiles/
+CMakeCache.txt
+memo.md
+sample/
+HTML/
+a.out
+test.cpp
